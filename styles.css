@@ -2,6 +2,7 @@ html {
   height: 100%;
 }
 body {
+  background-color: darkgreen;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -9,6 +10,7 @@ body {
   margin: 0;
 }
 .card {
+  background-color: white;
   font-family: sans-serif;
   position: relative;
   width: 105px;
